@@ -7,6 +7,7 @@ public class MyMusic {
 
 		System.out.println("Faz algo novo");
 		System.out.println("tocando musiquinha bacana");
+		System.out.println("tocando musiquinha bacana 2");
 	}
 
 }

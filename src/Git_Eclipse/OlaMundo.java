@@ -10,6 +10,11 @@ public class OlaMundo {
 		return "Mensagem do Leandro 2";
 
 	}
+	
+	public static String remoto() {
+		return "Mensagem do Leandro 2";
+
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(getMessage());

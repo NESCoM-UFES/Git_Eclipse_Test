@@ -11,7 +11,7 @@ public class OlaMundo {
 
 	}
 	
-	public static String remoto() {
+	public static String metodoRemoto() {
 		return "Mensagem do Leandro 2";
 
 	}

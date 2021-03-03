@@ -12,7 +12,12 @@ public class OlaMundo {
 	}
 	
 	public static String metodoRemoto() {
-		return "Mensagem do Leandro 2";
+		return "Mensagem do Leandro 4";
+
+	}
+	
+		public static String nvoMetodoRemoto() {
+		return "Mensagem do Leandro 4";
 
 	}
 	public static void main(String[] args) {
